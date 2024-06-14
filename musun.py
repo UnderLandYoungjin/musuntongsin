@@ -1,3 +1,5 @@
+#챗GPT가 작성한 코드 그대로 첨부 하는거라 참조하실때 유의 부탁드립니다!
+
 import math
 
 # Constants
